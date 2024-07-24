@@ -9,7 +9,7 @@
 <groupId>org.springframework</groupId>
 <artifactId>spring-framework-bom</artifactId>
 <version>5.3.29</version>
-<packaging>pom</packaging>
+<packaging>war</packaging>
 <name>Spring Framework (Bill of Materials)</name>
 <description>Spring Framework (Bill of Materials)</description>
 <url>https://github.com/spring-projects/spring-framework</url>
