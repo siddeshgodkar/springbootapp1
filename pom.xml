@@ -34,7 +34,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+<useIncrementalCompilation>false</useIncrementalCompilation> 
 	<build>
 		<plugins>
 			<plugin>
