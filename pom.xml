@@ -34,12 +34,13 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-<useIncrementalCompilation>false</useIncrementalCompilation> 
+
 	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration><useIncrementalCompilation>false</useIncrementalCompilation> </configuration>
 			</plugin>
 		</plugins>
 	</build>
